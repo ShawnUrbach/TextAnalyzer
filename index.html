@@ -1,0 +1,25 @@
+<html>
+
+	<head>
+		<title>Text Analyzer & Converter</title>
+		<link href ='TextAnalyzer.css' rel="stylesheet" type="text/css">
+	</head>
+
+	<body>
+		<button id = "analyze_button">CLICK HERE TO ANALYZE TEXT</button>
+		<br>
+		<textarea rows = "10" cols="100" id="user_textarea"></textarea>
+		<div id = "characters_info">Characters:</div>
+		<div id = "words_info">Words:</div>
+		<div id = "long_word_info">Longest Word:</div>
+		<div id = "avg_word_info">Avg. Word Length:</div>
+		
+		CONVERTED TEXT
+		<br>
+		<textarea rows = "10" cols="100" id="converted_textarea"></textarea>
+
+		<script src='./TextAnalyzer.js'></script>
+		<script src='./replacement_words.js'></script>
+	</body>
+
+</html>

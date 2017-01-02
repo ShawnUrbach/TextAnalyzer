@@ -1,0 +1,41 @@
+#analyze_button {
+	margin-bottom: 5px;
+}
+
+
+#characters_info {
+	background-color: white;
+	width: 200px;
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 1px;
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+#words_info {
+	background-color: white;
+	width: 200px;
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 1px;
+	margin-bottom: 15px;
+}
+
+#long_word_info {
+	background-color: white;
+	width: 200px;
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 1px;
+	margin-bottom: 15px;
+}
+
+#avg_word_info {
+	background-color: white;
+	width: 200px;
+	outline-color: black;
+	outline-style: solid;
+	outline-width: 1px;
+	margin-bottom: 15px;
+}
